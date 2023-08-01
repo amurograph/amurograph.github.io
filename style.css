@@ -99,6 +99,9 @@ p.leftp {
 	text-align: left;
 	padding: 10px;
 }
+ul li {
+	text-align: left;
+}
 a {
 	display: block;
 	text-align: center;
