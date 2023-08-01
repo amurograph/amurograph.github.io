@@ -92,7 +92,9 @@ h1 {
 	color: #c5c5c5;
 	text-align: center;
 }
-p {}
+p {
+	margin: 15px 0;
+}
 p.leftp {
 	text-align: left;
 	padding: 10px;
