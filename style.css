@@ -97,7 +97,7 @@ p {
 }
 p.leftp {
 	text-align: left;
-	padding: 10px;
+	padding: 0 20px;
 }
 ul li {
 	text-align: left;
